@@ -1,1 +1,108 @@
+@import url('https://fonts.googleapis.com/css2?family=Josefin+Sans:ital,wght@0,100..700;1,100..700&family=Outfit:wght@100..900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100..900;1,100..900&display=swap');
+
 @import "tailwindcss";
+
+*{
+    font-family: 'Josefin Sans';
+}
+
+/* Custom Text Color Classes Without Prefix */
+.brown {
+  color: #53423e;
+}
+.bgbrown {
+  background-color: #53423e;
+}
+
+.lightBrown {
+  color: #645550;
+}
+.bglightBrown {
+  background-color: #645550;
+}
+
+
+.darkBrown {
+  color: #2c2523;
+}
+.bgdarkBrown {
+  background-color: #2c2523;
+}
+
+.blackCustom {
+  color: #1e1917;
+}
+.bgblackCustom {
+  background-color: #1e1917;
+}
+
+.whiteCustom {
+  color: #f1e1d9;
+}
+.bgwhiteCustom {
+  background-color: #f1e1d9;
+}
+
+.cyan {
+  color: #15d1e9;
+}
+.bgcyan {
+  background-color: #15d1e9;
+}
+
+.lightCyan {
+  color: #88e5f0;
+}
+.bglightCyan {
+  background-color: #88e5f0;
+}
+
+.darkCyan {
+  color: #0093b8;
+}
+.bgdarkCyan {
+  background-color: #0093b8;
+}
+
+.orange {
+  color: #fb9718;
+}
+.bgorange {
+  background-color: #fb9718;
+}
+
+.lightOrange {
+  color: #fac27b;
+}
+.bglightOrange {
+  background-color: #fac27b;
+}
+
+.darkOrange {
+  color: #d28422;
+}
+.bgdarkOrange {
+  background-color: #d28422;
+}
+
+.grey {
+  color: #626965;
+}
+.bggrey {
+  background-color: #626965;
+}
+
+.lightGrey {
+  color: #978580;
+}
+.bglightGrey {
+  background-color: #978580;
+}
+
+.darkGrey {
+  color: #3f4441;
+}
+.bgdarkGrey {
+  background-color: #3f4441;
+}
