@@ -1,11 +1,12 @@
 import React from 'react'
+import NavbarMain from './components/navbar/NavbarMain'
 
 const App = () => {
   return (
-    <div className=' bgcyan'>
-      hlwww2
+   <main>
+<NavbarMain/>
 
-    </div>
+   </main>
   )
 }
 

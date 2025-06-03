@@ -6,9 +6,16 @@
 *{
     font-family: 'Josefin Sans';
 }
+body{
+  background-color:#2c2523 ;
+}
+
+.cyanShadow {
+  box-shadow: 0px 0px 20px 6px rgba(94, 206, 220, 0.5);
+}
 
 /* Custom Text Color Classes Without Prefix */
-.brown {
+/* .brown {
   color: #53423e;
 }
 .bgbrown {
@@ -105,4 +112,4 @@
 }
 .bgdarkGrey {
   background-color: #3f4441;
-}
+} */
